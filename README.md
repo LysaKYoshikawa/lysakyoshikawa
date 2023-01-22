@@ -1,7 +1,7 @@
 ### Olá! eu sou a Monalysa Yoshikawa 👋👩‍💻
 
 
-🐱‍💻 Eu trabalho com back-end e front-end, tenho afinidade com as linguagens JavaScript/react e Python. 
+🐱‍💻 Eu trabalho com back-end e front-end, tenho afinidade com as linguagens JavaScript/react. 
 
 🌱 Atualmente estou estudando e aperfeicoando JS e Python e metodologias ágeis. 
 
