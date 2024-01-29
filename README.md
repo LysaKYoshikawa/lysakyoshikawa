@@ -38,8 +38,11 @@
   <img align="center" alt="Lysa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
 </div>
+  
+<img align="center" src="./imagem1.gif" alt="Imagem" width="600px" height="800px">
+  
 
-<br>
+
 
 <div align="center">
   <a href = "mailto:monalysaklauck@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
