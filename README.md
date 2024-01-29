@@ -6,7 +6,8 @@
 </div>
 
 <div>
-  :office: Apos anos trabalhando com administração e financeiro migrei para tecnologia mais precisamente programação.
+  
+  :exclamation:  Apos anos trabalhando com administração e financeiro migrei para tecnologia mais precisamente programação.
   
   :pencil2: Estou em constante evolução e estudo com frequencia quero me tornar uma referencia e inspirar outras pessoas. 
   
@@ -20,6 +21,11 @@
   
   🌱 Atualmente estou estudando e aperfeicoando frontend atraves de react e na parte de backend com java
   
+  
+</div>
+<div>
+  
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LysaKYoshikawa)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
