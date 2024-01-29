@@ -29,7 +29,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LysaKYoshikawa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LysaKYoshikawa&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-<div align="center" style="display: inline_block"><br>
+    <h3 align="center">Skills :fire: </h3>
+    
+<div align="center" style="display: inline_block">
   <img align="center" alt="Lysa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lysa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lysa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -38,10 +40,18 @@
   <img align="center" alt="Lysa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
 </div>
+<br>
+
+<div align="center" style="display: inline_block">
   
-<img align="center" src="./imagem1.gif" alt="Imagem" width="600px" height="800px">
+  <img align="center" src="./imagem1.gif" alt="Imagem" width="600px" height="800px">
+  
+</div>
+
+<br>
   
 
+<h3 align="center"> :star: Contato e redes sociais </h3>
 
 
 <div align="center">
