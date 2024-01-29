@@ -1,19 +1,29 @@
 <div>
 
   <ul align="center">
-    <summary><h1 style="display: inline-block">Olá! eu sou a Monalysa Yoshikawa 👋👩‍💻</h1></summary>
+    <h1 style="display: inline-block">Olá! eu sou a Monalysa Yoshikawa 👋👩‍💻</h1>
+  
+</div>
+
+<div>
+  :office: Apos anos trabalhando com administração e financeiro migrei para tecnologia mais precisamente programação.
+  
+  :pencil2: Estou em constante evolução e estudo com frequencia quero me tornar uma referencia e inspirar outras pessoas. 
+  
+ :thumbsup: Sou formada em administração e ganhei o premio pelo CRA como aluna dedicada.
+  
+  :star2: Terminei um MBA em Gestão de projeto com foco em metodologias ageis pela USP
+  
+  :mortar_board: Faço faculdade de Analise e desenvolvimento de sistemas pela <a href="https://www.infnet.edu.br/infnet/home/">faculdade Infnet</a>
+  
+  🐱‍💻 Eu trabalho como desenvolvedora web e trabalho desde backend ate frontend.
+  
+  🌱 Atualmente estou estudando e aperfeicoando frontend atraves de react e na parte de backend com java
+  
   
 </div>
 
 
-
-🐱‍💻 Eu trabalho com back-end e front-end, tenho afinidade com as linguagens JavaScript/react. 
-
-🌱 Atualmente estou estudando e aperfeicoando JS e Python e metodologias ágeis. 
-
-✨Sou formada em Administração com MBA em Gestão de Projetos pela USP.
-
-💻📖 Faço faculdade de Análise e desenvolvimento de sistemas pela Falculdade de Tecnólogia Infnet
 
 
 
