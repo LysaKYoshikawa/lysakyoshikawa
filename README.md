@@ -23,15 +23,6 @@
   
   
 </div>
-<div>
-  
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LysaKYoshikawa)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
-
-
-
-
 
 <div align="center">
   <a href="https://github.com/LysaKYoshikawa">
@@ -44,7 +35,7 @@
   <img align="center" alt="Lysa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lysa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lysa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lysa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Lysa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
 </div>
 
