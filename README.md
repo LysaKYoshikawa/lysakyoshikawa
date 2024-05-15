@@ -11,7 +11,7 @@
   
   :pencil2: Estou em constante evolução e estudo com frequencia quero me tornar uma referencia e inspirar outras pessoas. 
   
- :thumbsup: Sou formada em administração e ganhei o premio pelo CRA como aluna dedicada.
+ :thumbsup: Sou formada em administração e ganhei o premio de mérito academico pelo Conselho Regional de Administração.
   
   :star2: Terminei um MBA em Gestão de projeto com foco em metodologias ageis pela USP
   
