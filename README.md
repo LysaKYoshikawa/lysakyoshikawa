@@ -19,7 +19,7 @@
   
   🐱‍💻 Eu trabalho como desenvolvedora web e trabalho desde backend ate frontend.
   
-  🌱 Atualmente estou estudando e aperfeicoando frontend atraves de react e na parte de backend com java, spring boot, testes unitários.
+  🌱 Atualmente estou estudando e aperfeicoando frontend atraves de react e na parte de backend com java, spring boot, testes automatizados.
   
   
 </div>
