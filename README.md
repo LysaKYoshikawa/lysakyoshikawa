@@ -17,9 +17,9 @@
   
   :mortar_board: Faço faculdade de Analise e desenvolvimento de sistemas pela <a href="https://www.infnet.edu.br/infnet/home/">faculdade Infnet</a>
   
-  🐱‍💻 Eu trabalho como desenvolvedora web e trabalho desde backend ate frontend.
+  🐱‍💻 Eu trabalho como desenvolvedora web e trabalho desde backend até frontend.
   
-  🌱 Atualmente estou estudando e aperfeicoando frontend atraves de react e na parte de backend com java, spring boot, testes automatizados.
+  🌱 Atualmente estou estudando e aperfeicoando frontend atraves de react e na parte de backend com java, spring boot, testes automatizados, banco de dados.
   
   
 </div>
